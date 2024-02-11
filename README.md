@@ -1,4 +1,4 @@
-$Docker-compose up 
+$Docker-compose up \n
 O comando acima roda o teste uma única vez
 
 Caso queira a interface um pouco melhorada no gnome-terminal ao invés do docker
