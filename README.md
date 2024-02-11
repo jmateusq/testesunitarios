@@ -1,4 +1,4 @@
-$Docker-compose up
+$docker-compose up
 
 O comando acima roda o teste uma única vez
 
